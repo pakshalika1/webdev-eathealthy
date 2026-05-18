@@ -79,3 +79,8 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+
+
+<img src="../11.3 TinDog Project/images/phone.webp"/>
+<img src="../11.3 TinDog Project/images/food.jpg"/>
+
